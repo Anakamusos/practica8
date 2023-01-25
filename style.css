@@ -1,0 +1,18 @@
+table.rojo{
+    border: red 2px solid;
+}
+td.azul{
+    border: blue 2px solid;
+}
+
+table.verde{
+    border: green 2px solid;
+}
+
+td.verde{
+    border: green 2px solid;
+    height: 10px;
+    width: 100px;
+}
+
+
